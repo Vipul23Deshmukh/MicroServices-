@@ -14,7 +14,6 @@ This project demonstrates a microservices-based architecture where different ser
 - **Backend:** .NET 8 / Node.js (depending on service)
 - **Frontend:** React
 - **Database:** MySQL
-- **Cloud Deployment:** Azure
 - **Containerization:** Docker
 
 ## ⚙️ Setup Instructions
